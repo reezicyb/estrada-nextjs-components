@@ -20,8 +20,8 @@ export default function SkillsList() {
           <div
             key={skill.name}
             className="group relative px-5 py-2 bg-gradient-to-r from-violet-600 to-fuchsia-600 
-                       text-white rounded-full shadow-md cursor-pointer 
-                       transition duration-300 hover:scale-105 hover:shadow-violet-500/50"
+                      text-white rounded-full shadow-md cursor-pointer 
+                      transition duration-300 hover:scale-105 hover:shadow-violet-500/50"
           >
             <span className="font-medium">{skill.name}</span>
 
