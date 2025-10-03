@@ -7,7 +7,7 @@ It showcases my personal information, skills, and a modern UI with animations, h
 
 ## 📸 Preview
 
-![Project Screenshot](./public/preview.png)
+![Project Screenshot](./public/preview1.png)
 
 ---
 
